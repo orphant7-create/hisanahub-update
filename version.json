@@ -1,6 +1,6 @@
 {
-  "version_code": 5,
-  "version_name": "5.1.25",
-  "release_notes": "Perbaikan bug pada sistem stok.",
-  "download_url": "https://github.com/orphant7-create/hisanahub-update/releases/download/5.1.25/HisanaHub_v5.1.25.apk"
+  "version_code": 6,
+  "version_name": "5.1.26",
+  "release_notes": "Perbaikan bug pada sistem otomatis update.",
+  "download_url": "https://github.com/orphant7-create/hisanahub-update/releases/download/5.1.26/androidApp-release.apk"
 }
