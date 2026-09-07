@@ -1,44 +1,6 @@
 {
-  "version_code": 38,
-  "version_name": "5.9.52",
-  "release_notes": "📦 1. MANAJEMEN INVENTARIS & KARTU STOK GERAI
-• Kartu Stok Gerai & Enakko: Rekap mutasi stok harian (Stok Awal, Masuk, Pemakaian, Stok Akhir, hingga Selisih).
-• Otomatisasi Masuk DO (Auto-Sync): Pengiriman dari gudang/vendor (DO/PO) yang selesai otomatis menambah stok gerai tanpa perlu input manual.
-• Konversi Satuan Global: Konversi otomatis dari satuan gudang (Dus/Karton/Kg) ke satuan eceran gerai (Pcs/Ekor).
-• Master Barang Payung (Umbrella Item): Penyederhanaan varian produk turunan ke dalam grup barang payung (seperti Ayam Payung Ori & Spicy).
-• Smart Inventory & ROP: Deteksi dini stok minimum dan peringatan Reorder Point (Aman, Warning, Kritis).
-• Fitur Audit & Stock Opname: Pencatatan opname fisik berkala di gerai dan gudang untuk mendeteksi selisih stok.
-
-📑 2. TRANSAKSI, ORDER & LOGISTIK
-• Pembuatan & Master PO Ayam: Pengajuan PO internal (G1) dan vendor ayam (G3) yang terstandarisasi.
-• Riwayat Transaksi (Arsip PO & DO): Dilengkapi panel kapsul lipat (expandable card) untuk filter status PO (Draft, Menunggu, Aktif, Selesai) yang hemat ruang.
-• Penerimaan Barang & Ayam: Verifikasi kuantitas riil saat armada tiba di gerai, lengkap dengan form kendala kualitas.
-• Live Tracking Armada: Pemantauan rute pengiriman driver logistik ke gerai secara real-time.
-
-📊 3. LAPORAN GERAI & CLOSING HARIAN
-• Laporan Gerai Terpusat: Rekapitulasi penjualan, kas masuk, dan pengeluaran operasional yang terhubung langsung dengan dokumen closing harian gerai.
-• Form Closing Harian: Formulir tutup kasir harian gerai yang cepat, akurat, dan anti-selisih.
-• Laporan Performa Gerai (KPI): Analisis omzet, efisiensi bahan baku, tingkat penyusutan (waste), hingga skor audit kebersihan gerai.
-• Ekspor Dokumen: Opsi cetak/unduh laporan harian dan bulanan ke format dokumen (PDF / Excel).
-
-🎯 4. MARKETING COMMAND CENTER 2026
-• Kalender Kampanye Dinamis: Otomatis menampilkan tema promosi bulanan dan intensitas alokasi budget iklan (MAX, HIGH, MEDIUM, LOW) sesuai strategi tahunan 2026.
-• Detektor Produk Slow-Moving: Deteksi otomatis barang yang menumpuk di gerai dengan rekomendasi aksi promo geofencing radius 3–5 KM.
-• Ad Funnel & Budget Tracker: Pemantauan alokasi belanja iklan Meta/TikTok (50% Sales/Konversi, 30% Awareness, 20% Engagement).
-• Direktori Playbook: Integrasi ke lembar kerja strategi bulanan dan direktori 100 Konten POV.
-
-⚙️ 5. MASTER DATA & KELOLA HARGA
-• Update Harga Jual: Kelola margin keuntungan konsumen per kategori produk dengan fitur pencarian cepat dan kalkulasi persentase laba otomatis.
-• Master Katalog Terpadu: Pengelolaan master produk, satuan, daftar gerai, data supplier, dan armada kendaraan.
-
-👥 6. HRD, JADWAL & AUDIT OPERASIONAL
-• Absensi Karyawan: Pencatatan kehadiran digital berbasis lokasi gerai.
-• Roster Jadwal & Tukar Shift: Pengajuan dan persetujuan tukar shift kerja antar karyawan gerai secara mandiri.
-• Form Inspeksi & Audit: Modul audit operasional gerai, standar SJH (Halal), TPPKG, dan Audit Berkah.
-
-📱 7. PENINGKATAN SISTEM & UX
-• Dukungan Mode Tablet: Tampilan antarmuka responsif dengan navigasi multi-kolom yang optimal di layar besar maupun smartphone.
-• Simulasi Akun (Testing Mode): Kemudahan inspeksi fitur antar-role akun tanpa perlu logout-login berulang kali.
-• Keamanan & Sinkronisasi Cepat: Pembersihan aturan keamanan database untuk pemuatan data yang lebih stabil dan aman.",
-  "download_url": "https://github.com/orphant7-create/hisanahub-update/releases/download/5.9.52/5.9.52.apk"
+  "version_code": 39,
+  "version_name": "5.9.78",
+  "release_notes": "penambahan fitur untuk marketing",
+  "download_url": "https://github.com/orphant7-create/hisanahub-update/releases/download/5.9.78/HisanaHub_5.9.78.apk"
 }
