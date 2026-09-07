@@ -1,6 +1,6 @@
 {
-  "version_code": 37,
-  "version_name": "5.9.51",
+  "version_code": 38,
+  "version_name": "5.9.52",
   "release_notes": "📦 1. MANAJEMEN INVENTARIS & KARTU STOK GERAI
 • Kartu Stok Gerai & Enakko: Rekap mutasi stok harian (Stok Awal, Masuk, Pemakaian, Stok Akhir, hingga Selisih).
 • Otomatisasi Masuk DO (Auto-Sync): Pengiriman dari gudang/vendor (DO/PO) yang selesai otomatis menambah stok gerai tanpa perlu input manual.
@@ -40,5 +40,5 @@
 • Dukungan Mode Tablet: Tampilan antarmuka responsif dengan navigasi multi-kolom yang optimal di layar besar maupun smartphone.
 • Simulasi Akun (Testing Mode): Kemudahan inspeksi fitur antar-role akun tanpa perlu logout-login berulang kali.
 • Keamanan & Sinkronisasi Cepat: Pembersihan aturan keamanan database untuk pemuatan data yang lebih stabil dan aman.",
-  "download_url": "https://github.com/orphant7-create/hisanahub-update/releases/download/5.9.51/5.9.51.apk"
+  "download_url": "https://github.com/orphant7-create/hisanahub-update/releases/download/5.9.52/5.9.52.apk"
 }
